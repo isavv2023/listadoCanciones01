@@ -1,0 +1,19 @@
+{
+    "name": "reproductor-musica",
+    "version": "1.0.0",
+    "description": "Reproductor de música utilizando la API de Deezer",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "TuNombre",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "colors": "^1.4.0",
+        "inquirer": "^9.2.12",
+        "node-fetch": "^3.3.2",
+        "node-sound": "^0.0.8"
+    }
+}
