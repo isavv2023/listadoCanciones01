@@ -14,6 +14,7 @@
         "colors": "^1.4.0",
         "inquirer": "^9.2.12",
         "node-fetch": "^3.3.2",
-        "node-sound": "^0.0.8"
+        "node-sound": "^0.0.8",
+        "play-sound": "^1.1.6"
     }
 }
