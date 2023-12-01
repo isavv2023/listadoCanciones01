@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "TuNombre",
+    "author": "isavv2023",
     "license": "MIT",
     "dependencies": {
         "axios": "^0.24.0",
