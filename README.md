@@ -16,10 +16,10 @@ Aplicación terminal (node)
 Solicitar un artista
 Se muestra sobre este artista, una lista de 10 canciones (obtenidas de Deezer) con 4 campos: 
 
-titulo de la cancion
-link a la cancion
-link a la imagen de la cancion
-link a la preview de su MP3
+titulo de la cancion,
+link a la cancion,
+link a la imagen de la cancion,
+link a la preview de su MP3.
 
 Después da la opcion de elegir Reproducir ultimo artista buscado. Aquí saldran las 10 canciones anteriores, solo sus titulos, y se puede elegir una canción. Al elegirla, se abrirá el navegador y reproducirá los 30 segundos de la preview de la canción. 
 
@@ -41,9 +41,10 @@ Y por si acaso, para que se reprodujera bien el mp3, al usar Linux: mpg123 y sox
 ### Vistas
 
 Menu para mostrar qué hace el programa: 
+ 0. Salir
  1. Buscar artista
  2. Reproducir ultimo artista
- 0. Salir
+
 
 Menu de aceptacion o entrada de datos: Necesito pedirle al usuario que artista quiere escuchar. Si elige la opcion 1, el usuario escribirá un artista musical. 
 
